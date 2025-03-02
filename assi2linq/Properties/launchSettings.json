@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "assi2linq": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
